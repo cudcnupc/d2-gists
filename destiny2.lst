@@ -10,9 +10,6 @@ nftset=/cloudfront.net/4#inet#fw4#vpn_domains
 nftset=/akamaized.net/4#inet#fw4#vpn_domains
 nftset=/fastly.net/4#inet#fw4#vpn_domains
 
-nftset=/www1.signon2.deadorbit.net/4#inet#fw4#vpn_domains
-nftset=/signon2.deadorbit.net/4#inet#fw4#vpn_domains
-nftset=/deadorbit.net/4#inet#fw4#vpn_domains
 
 nftset=/steam-chat.com/4#inet#fw4#vpn_domains
 
@@ -20,4 +17,5 @@ nftset=/bungie.net/4#inet#fw4#vpn_domains
 nftset=/api.bungie.net/4#inet#fw4#vpn_domains
 nftset=/destinythegame.com/4#inet#fw4#vpn_domains
 nftset=/deadorbit.net/4#inet#fw4#vpn_domains
-nftset=/signon2.deadorbit.net/4#inet#fw4#vpn_domains
+nftset=/gravityshavings.net/4#inet#fw4#vpn_domains
+nftset=/steamserver.net/4#inet#fw4#vpn_domains
