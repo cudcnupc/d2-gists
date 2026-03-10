@@ -1,0 +1,11 @@
+nftset=/bungie.net/4#inet#fw4#vpn_domains
+nftset=/www.bungie.net/4#inet#fw4#vpn_domains
+nftset=/api.bungie.net/4#inet#fw4#vpn_domains
+nftset=/destinythegame.com/4#inet#fw4#vpn_domains
+nftset=/www.destinythegame.com/4#inet#fw4#vpn_domains
+nftset=/bungiestore.com/4#inet#fw4#vpn_domains
+
+# CDN
+nftset=/cloudfront.net/4#inet#fw4#vpn_domains
+nftset=/akamaized.net/4#inet#fw4#vpn_domains
+nftset=/fastly.net/4#inet#fw4#vpn_domains
