@@ -19,3 +19,4 @@ nftset=/destinythegame.com/4#inet#fw4#vpn_domains
 nftset=/deadorbit.net/4#inet#fw4#vpn_domains
 nftset=/gravityshavings.net/4#inet#fw4#vpn_domains
 nftset=/steamserver.net/4#inet#fw4#vpn_domains
+nftset=/rutracker.org/4#inet#fw4#vpn_domains
